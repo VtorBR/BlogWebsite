@@ -1,4 +1,11 @@
+title: Vtor's Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  A collection of things to learn and teach.
+  <br/>Mostly game development and programming.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Vtor_
 plugins:
   - jekyll-remote-theme
 
-remote_theme: poole/hyde
+remote_theme: fongandrew/hydeout
